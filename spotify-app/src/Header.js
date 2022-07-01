@@ -14,7 +14,7 @@ export const BlueHeader = () => {
 Get Premium free for 1 month</h2>
 <p style={{fontSize:"2vw"}}>Just ₹119/month after. Debit and credit cards accepted. Cancel anytime.</p>
 <div className='btnParent'>
-<div className='getStarted'>GET STARTED</div>
+<div  className='getStarted'>GET STARTED</div>
 <div className='seOtherplan'>SEE MORE PLAN</div>
 </div>
 <span style={{fontSize:"1.3vw"}}><a href='#'  style={{color:"white"}}>Terms and conditions apply.</a> </span><span style={{fontSize:"1.3vw"}}>1 month free not available for users who have already tried Premium.</span>

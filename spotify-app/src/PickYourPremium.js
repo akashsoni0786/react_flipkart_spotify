@@ -20,16 +20,16 @@ const PickYourPremium = () => {
 export const PaymentGateway = () => {
   return (
     <div >
-      <img style={{width:"3vw"}} alt='' src='https://content-tooling.spotifycdn.com/images/b33cabea-d074-4f4f-8714-da6bdb2f067f_upi.svg'/>
+      <img style={{width:"3vw",cursor: 'pointer'}} alt='' src='https://content-tooling.spotifycdn.com/images/b33cabea-d074-4f4f-8714-da6bdb2f067f_upi.svg'/>
 
-<img style={{width:"3vw"}} alt='' src='https://content-tooling.spotifycdn.com/images/ea750340-f556-4682-b84c-326269cdd4bc_paytm.svg'/>
+<img style={{width:"3vw",cursor: 'pointer'}} alt='' src='https://content-tooling.spotifycdn.com/images/ea750340-f556-4682-b84c-326269cdd4bc_paytm.svg'/>
 
-<img style={{width:"3vw"}} alt='' src='https://content-tooling.spotifycdn.com/images/e549bf16-2051-43ac-b4d6-c5b8d7bf100d_visa.svg' />
+<img style={{width:"3vw",cursor: 'pointer'}} alt='' src='https://content-tooling.spotifycdn.com/images/e549bf16-2051-43ac-b4d6-c5b8d7bf100d_visa.svg' />
 
-<img style={{width:"3vw"}} alt='' src='https://content-tooling.spotifycdn.com/images/6d693019-628b-45b8-96ca-e3c294aed6aa_mastercard.svg'/>
-<img style={{width:"3vw"}} alt='' src='https://content-tooling.spotifycdn.com/images/468706f2-62af-48e4-80cb-9616b011f6c6_amex.svg'/>
+<img style={{width:"3vw",cursor: 'pointer'}} alt='' src='https://content-tooling.spotifycdn.com/images/6d693019-628b-45b8-96ca-e3c294aed6aa_mastercard.svg'/>
+<img style={{width:"3vw",cursor: 'pointer'}} alt='' src='https://content-tooling.spotifycdn.com/images/468706f2-62af-48e4-80cb-9616b011f6c6_amex.svg'/>
 
-<img style={{width:"3vw"}} alt='' src='https://content-tooling.spotifycdn.com/images/13ab56f9-bcc3-414e-b8ff-6cf692a5ae0c_diners.svg'/>
+<img style={{width:"3vw",cursor: 'pointer'}} alt='' src='https://content-tooling.spotifycdn.com/images/13ab56f9-bcc3-414e-b8ff-6cf692a5ae0c_diners.svg'/>
 
     </div>
   )

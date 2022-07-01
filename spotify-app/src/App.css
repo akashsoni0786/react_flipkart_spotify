@@ -47,6 +47,7 @@
 }
 
 .specialDiscountcard{
+  cursor: pointer;
   width: 50vw;
   height: 2.5vw;
   text-align: center;
@@ -57,6 +58,7 @@
   display: inline-block;
 }
 .hollowbtnblack{
+  cursor: pointer;
   border-radius: 15px;
   border: 2px solid black;
   width: 12vw;
@@ -65,6 +67,7 @@
   color: black;
 }
 .darkbtn{
+  cursor: pointer;
   border-radius: 5px;
   background-color: blueviolet;
   border: 2px solid blueviolet;
@@ -75,6 +78,7 @@
   margin-bottom: 10px;
 }
 .buton1{
+  cursor: pointer;
   border-radius: 5px;
   border: 2px solid blueviolet;
   width: 12vw;
@@ -83,6 +87,7 @@
   color: blueviolet;
 }
 .buton2{
+  cursor: pointer;
   color: white;
   background-color: black;
   text-align: center;
@@ -92,6 +97,7 @@
   margin: 5%;
 }
 .termsBtn{
+  cursor: pointer;
   color: gray;
   font-size: 1vw;
 }
@@ -110,6 +116,7 @@
   width: 100%;
 }
 .getStarted{
+  cursor: pointer;
   border-radius: 30px;
   background-color: black;
   width: 20%;
@@ -120,6 +127,7 @@
   margin: 1%;
 }
 .seOtherplan{
+  cursor: pointer;
   border-radius: 30px;
   border: 1px solid white;
   background-color: transparent;
@@ -130,6 +138,7 @@
   color: white;
 }
 .getMini{
+  cursor: pointer;
   border-radius: 30px;
   border: 1px solid white;
   background-color: white;
@@ -148,6 +157,7 @@
 
 }
 .navBtns{
+
   font-size:10px;
   color:white;
   display:flex;
@@ -157,15 +167,18 @@
   font-size: 1.2vw;
 }
 .navBtns p{
+  cursor: pointer;
   margin-left: 10px;
   margin-right: 10px;
 }
 .spotifylogoUper{
+  cursor: pointer;
   width:100px;
   padding-left:100px
 }
 @media only screen and (max-width:700px) {
   .questions{
+    cursor: pointer;
     width: 50vw;
     font-size: 3vw;
     text-align: left;
@@ -173,6 +186,7 @@
     display: flex;
   }
   .spotifylogoUper{
+    cursor: pointer;
     margin:5%;
     width:60px;
     padding-left:100px
@@ -193,6 +207,7 @@
     display:flex
   }
   .getMini{
+    cursor: pointer;
     border-radius: 30px;
     border: 1px solid white;
     background-color: white;
@@ -203,6 +218,7 @@
     color: black;
   }
   .getStarted{
+    cursor: pointer;
     border-radius: 20px;
     background-color: black;
     width: 90%;
@@ -213,6 +229,7 @@
     margin-bottom: -5px;
   }
   .seOtherplan{
+    cursor: pointer;
     border-radius: 20px;
     border: 1px solid white;
     background-color: transparent;
