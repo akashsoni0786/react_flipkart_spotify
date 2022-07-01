@@ -22,7 +22,7 @@ const Question = () => {
 
 export const Ques1 = () => {
   return (
-    <div style={{width: '400px'}}>
+    <div >
         <div className='questions'>
         <h5>What is Spotify and Spotify Premium?</h5>
         <img style={{width:"10px",height:"10px",marginTop:"30px"}} alt='' src='https://cdn-icons-png.flaticon.com/512/60/60995.png'/>
