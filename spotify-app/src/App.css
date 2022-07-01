@@ -101,3 +101,10 @@
   justify-content: space-between;
   display: flex;
 }
+.centerquestions{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
