@@ -100,3 +100,38 @@
   font-size: 1.2vw;
   display: inline-block;
 }
+
+@media only screen and (max-width:700px) {
+
+  .searchBar{
+    border-radius: 2px;
+  background-color: white;
+  display: inline-block;
+  border: 1px solid blue;
+  height: 33px;
+  padding-top: 2px ;
+  padding-bottom: 2px;
+  margin-left: 2%;
+  margin-right: 2%;
+  width:100px
+}
+.loginBtn{
+  height: 30px;
+  /* border-radius: 5px; */
+  border: 1px solid #0d6efd;
+  color: #0d6efd;
+  /* padding: 20px; */
+  width: 50px;
+  height: 20px;
+  
+  /* padding-right: 20px; */
+
+
+}
+.sellermore{
+  color: white;
+  font-weight: bold;
+  font-size: 1.2vw;
+  display: inline-block;
+}
+}

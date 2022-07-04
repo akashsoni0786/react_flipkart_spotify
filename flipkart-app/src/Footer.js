@@ -7,7 +7,7 @@ const Footer = () => {
             <div  className='border shadow-lg p-3  bg-body d-flex flex-row  justify-content-between' style={{height:"50px",width:"100%",padding:"auto"}} >
                 <div ><span style={{fontWeight:"bold",fontSize:"2.2vw"}}>Deals of the day </span><span><img alt='' src='https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/timer_a73398.svg' style={{width:"2vw"}}/></span><span className='blockquote ' style={{fontSize:"1.8vw"}} >11:11:33 Left</span></div>
                 <div >
-                    <button style={{marginTop:"-14px",height:"30px"}}  type="button" class="btn btn-primary pb-2">View All</button>
+                    <button style={{marginTop:"-14px",height:"30px",width:"10vw",fontSize:"1.5vw"}}  type="button" class="btn btn-primary pb-2">View All</button>
                 </div>
             </div>
             <div style={{flexWrap:"wrap"}} className='d-flex flex-row '><Products /><Products /><Products /><Products /><Products /><Products /><Products /></div>
